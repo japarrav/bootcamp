@@ -1,0 +1,1 @@
+Esta documento es de la primera versión de un proyecto que ayuda al aprendizaje continuo autónomo.
